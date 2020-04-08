@@ -1,2 +1,2 @@
 # README
-# This is the readme.txt for this theme
+# This is the my dark theme for VSCode.
